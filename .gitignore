@@ -11,3 +11,7 @@ wheels/
 
 # Enviornement files
 .env 
+
+# Test files
+calculator/lorem.txt
+calculator/pkg/morelorem.txt
